@@ -1,0 +1,24 @@
+
+body {
+  margin: 0;
+  padding: 2rem;
+  background: #fffaf0;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+p {
+  font-size: 1.2rem;
+}
+button {
+  margin-top: 2rem;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 8px;
+  background: #f9d342;
+  border: none;
+  cursor: pointer;
+}
